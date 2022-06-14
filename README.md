@@ -17,7 +17,7 @@
 </div>
 
 <h1  align="center">
-  Konnichiwa minna
+  Hi Everybody!! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -28,14 +28,14 @@
 
 ### :man_technologist: About Me :
 <br>
-I am a Student of Junior Programmer :school from Samarinda,East Borneo,Indonesia.
+I am a Student of Junior Programmer 👨‍🎓 from Samarinda,East Borneo,Indonesia.
 <br>
 
-- :telescope: i'm a student IT in SMAN 10 Samarinda and still learning about HTML,CSS,PHP.
+- 🏫: i'm a student IT in SMAN 10 Samarinda and still learning about HTML,CSS,PHP.
 
-- :seedling: Exploring everything about IT 
+- ✈️: Exploring everything about IT 
 
-- :zap: In my free time, i watch anime,movies,series (my currently watching series is euphoria).
+- 🎥: In my free time, i watch anime,movies,series (my currently watching series is euphoria).
 
 - :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/-instagram-pink?style=flat&logo=Instagram&logoColor=red)](https://www.instagram.com/xxivshnv/)
  <hr>
